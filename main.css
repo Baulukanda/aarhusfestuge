@@ -12,6 +12,24 @@ img {
   width: 100%;
 }
 
+/* NavBar */
+nav ul {
+  display: flex;
+  justify-content: flex-end;
+  padding: 1em;
+}
+
+li {
+  list-style-type: none;
+  margin-left: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/* Banner */
 #Banner figure {
   position: relative;
 }
